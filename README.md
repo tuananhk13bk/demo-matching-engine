@@ -1,3 +1,4 @@
+- The code is written in Typescript
 - Data structure used to store buy orders: Max Heap
 - Data structure used to store sell orders: Min Heap
 - Time complexity of operations in average case:
